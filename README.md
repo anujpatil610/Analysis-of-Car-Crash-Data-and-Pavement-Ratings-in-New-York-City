@@ -1,5 +1,5 @@
 # Project Title: Analysis of Car Crash Data and Pavement Ratings in New York City
-# Subject:
+# Subject: IA-626
 
 ## Description
 This project analyzes car crash data and pavement ratings in New York City to identify patterns and potential areas for improvement in road safety. The project involves merging two datasets - car crash data and pavement ratings data - based on the latitude and longitude of the crashes and the street segments in the pavement ratings data. The merged dataset is then used to conduct various analyses, including visualizing the distribution of crashes over time, identifying the most dangerous street segments, and examining the relationship between pavement ratings and crash frequency. The project utilizes various tools and techniques such as data cleaning, data merging, data visualization, and statistical analysis.
@@ -260,6 +260,14 @@ The vast majority of accidents occurred on roads with GOOD and FAIR pavement rat
 5. **Staten Island**: Staten Island has an average pavement quality of 7.44, which shows that the pavement conditions are moderately good.
 
 This analysis demonstrates the differences in pavement quality across the boroughs in New York City, with Brooklyn having the highest average pavement quality and Queens having the lowest.
+
+## Pavement Inspections Heatmap by BOROUGH and Year
+
+This heatmap displays the number of pavement inspections conducted in each borough of New York City from 2000 to 2023. The data is color-coded, with darker colors representing higher counts of inspections. 
+
+The heatmap shows that the number of inspections has generally increased over the years, with a significant increase in the 2010s and early 2020s. In particular, Brooklyn has seen the highest number of inspections, followed by Queens, Manhattan, the Bronx, and Staten Island.
+
+![Pavement Inspections Heatmap by BOROUGH and Year](9.png)
 
 
 ## Top 10 Contributing Factors for Accidents
